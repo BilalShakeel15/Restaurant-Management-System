@@ -1,3 +1,4 @@
 # Restaurant-Management-System
- Restaurant Management System using Data Structures and Algorithms
+ Restaurant Management System using Data Structures and Algorithms.
+ <br>
  This project leverages several key data structures and algorithms to efficiently manage a restaurant's menu and customer reservations. It utilizes linked lists for dynamic management of menu items, enabling efficient insertion and deletion. Binary Search Trees (BST) are implemented for quick search, insertion, and deletion of menu items, optimizing these operations to logarithmic time on average. Stacks are employed to handle undo operations, facilitating the reversal of recent changes. Queues are used to manage customer reservations and waitlists, ensuring a first-come, first-served order. Additionally, the project incorporates file I/O to persistently store and retrieve menu and customer details, ensuring data is maintained across sessions. These features together create a robust system for efficient restaurant management.
